@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//ashwin
+//ashwin is the author
 int main()
 {
     int n;
